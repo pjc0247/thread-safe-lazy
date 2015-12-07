@@ -1,6 +1,8 @@
 thread-safe-lazy
 ====
 
+thread-safe-lazy-pattern
+
 ```c#
 class Foo : LazyObject<Dictionary<string, string>>
 {
